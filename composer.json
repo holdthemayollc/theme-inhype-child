@@ -1,0 +1,19 @@
+{
+    "name": "htmllc/theme-inhype-child",
+    "repositories": [{
+        "type": "composer",
+        "url": "http://packages/"
+    }],
+    "provide": {
+        "htmllc/theme-inhype-child": "1.0.6"
+    },
+    "version": "1.0.6",
+    "description": "theme-inhype-child",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "inhype-child"
+    }
+}
