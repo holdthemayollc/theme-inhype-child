@@ -1,0 +1,18 @@
+/*
+Theme Name: Child of InHype
+Theme URI: https://magniumthemes.com/;
+Description: Child theme based on InHype
+Author: Your Name
+Version: 1.0
+Template: inhype
+*/
+
+:root {
+	--color-theme: #2568ef;
+    --color-theme-alt: #ff4545;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+    letter-spacing: .02em;
+}
